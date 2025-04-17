@@ -1,0 +1,11 @@
+Sample,Best Accuracy,Best SVM Parameters
+S1,91.08,"Kernel: rbf, Nu: 0.12, Gamma: 0.137"
+S2,90.41,"Kernel: poly, Nu: 0.02, Gamma: 0.445"
+S3,91.53,"Kernel: rbf, Nu: 0.24, Gamma: 0.108"
+S4,92.92,"Kernel: rbf, Nu: 0.19, Gamma: 0.055"
+S5,92.14,"Kernel: rbf, Nu: 0.17, Gamma: 0.122"
+S6,91.75,"Kernel: rbf, Nu: 0.2, Gamma: 0.042"
+S7,91.58,"Kernel: rbf, Nu: 0.13, Gamma: 0.101"
+S8,90.58,"Kernel: poly, Nu: 0.05, Gamma: 0.877"
+S9,93.2,"Kernel: rbf, Nu: 0.17, Gamma: 0.089"
+S10,89.74,"Kernel: rbf, Nu: 0.16, Gamma: 0.013"
